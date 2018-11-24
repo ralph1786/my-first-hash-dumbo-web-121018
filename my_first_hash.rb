@@ -1,4 +1,4 @@
-def my_hash {"fruit" => "orange", "vegetable" => "Beets"}
+def my_hash = {"fruit" => "orange", "vegetable" => "Beets"}
   
   
 end
