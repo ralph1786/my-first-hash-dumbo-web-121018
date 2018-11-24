@@ -1,7 +1,5 @@
 def my_hash 
   my_hash = {"fruit" => "orange", "vegetable" => "Beets"}
-  
-  
 end
 
 
